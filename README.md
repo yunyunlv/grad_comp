@@ -1,2 +1,2 @@
 # grad_comp
-macro_computational
+macro_computational course projects/notes
